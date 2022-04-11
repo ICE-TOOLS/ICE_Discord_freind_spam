@@ -17,9 +17,9 @@ from colorama import Fore,Style,Back
 color = 7419530
 
 
-TOKEN = "ODg5NTI0OTA1NDU0OTkzNDA4.YUigoA.pmIAcmuRXqUgJDP0mB-EjyL6OYM"
-bots_channel = 963091244630818827
-LogsChannel = 963091283390386176
+TOKEN = "Bot Token"
+bots_channel = 
+LogsChannel = 
 
 friendqueue = []
 
